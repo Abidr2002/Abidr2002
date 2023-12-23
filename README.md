@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Hi, Saya Abid! 
+
+Perkenalkan nama saya **Ahmad Hauzan Abid Romadhon**.<br>
+
+Saya seorang Mahasiswa Semester 5 di UPN "Veteran" Jawa Timur.<br>
+
+Saya saat ini fokus untuk belajar menjadi **Full-Stack Developer**.
+
+
 <!--
 **Abidr2002/Abidr2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
