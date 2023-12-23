@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi, Saya Abid! 
+# Hi, Saya Abid! 👋 
 
 Perkenalkan nama saya **Ahmad Hauzan Abid Romadhon**.<br>
 
